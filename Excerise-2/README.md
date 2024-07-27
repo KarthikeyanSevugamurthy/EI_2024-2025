@@ -48,7 +48,7 @@ Follow the prompts to input grid size, obstacles, starting position, direction, 
 
 -Output:
 
--Rover is at (1, 3) facing East.
+-Rover is at (1, 3) facing North.
 Rover encountered obstacles at:
 (2, 2)
 

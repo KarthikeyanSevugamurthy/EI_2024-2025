@@ -43,8 +43,8 @@ Follow the prompts to input grid size, obstacles, starting position, direction, 
 ### Example
 
 
--Enter grid width: 10 .
--Enter grid height: 10 .
+-*Enter grid width:* 10 
+-Enter grid height: 10 
 -Enter number of obstacles: 2
 -Enter obstacle 1 x-coordinate: 2
 -Enter obstacle 1 y-coordinate: 2

@@ -86,13 +86,7 @@ Rover encountered obstacles at:
   - *rover*: Rover, Direction, and StatusReport classes
   - *Main.java*: Entry point of the application
 
-## Evaluation Criteria
 
-- *Code Quality*: Adheres to best practices, SOLID principles, and design patterns.
-- *Functionality*: Meets all requirements and handles real-time data effectively.
-- *Global Convention*: Code is structured and written in a globally understandable manner.
-- *Gold Standards*: Effective logging, exception handling, and validations.
-- *Code Walkthrough*: Easily explainable architecture, design patterns used, and decisions taken.
 
 ## Contact
 

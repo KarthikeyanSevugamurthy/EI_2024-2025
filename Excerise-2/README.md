@@ -43,18 +43,18 @@ Follow the prompts to input grid size, obstacles, starting position, direction, 
 ### Example
 
 
-Enter grid width: 10
-Enter grid height: 10
-Enter number of obstacles: 2
-Enter obstacle 1 x-coordinate: 2
-Enter obstacle 1 y-coordinate: 2
-Enter obstacle 2 x-coordinate: 3
-Enter obstacle 2 y-coordinate: 5
-Enter starting x-coordinate: 0
-Enter starting y-coordinate: 0
-Enter starting direction (N/E/S/W): N
-Enter the number of commands: 6
-Enter commands (M for move, L for turn left, R for turn right):
+-Enter grid width: 10
+-Enter grid height: 10
+-Enter number of obstacles: 2
+-Enter obstacle 1 x-coordinate: 2
+-Enter obstacle 1 y-coordinate: 2
+-Enter obstacle 2 x-coordinate: 3
+-Enter obstacle 2 y-coordinate: 5
+-Enter starting x-coordinate: 0
+-Enter starting y-coordinate: 0
+-Enter starting direction (N/E/S/W): N
+-Enter the number of commands: 6
+-Enter commands (M for move, L for turn left, R for turn right):
 M
 M
 R
@@ -63,9 +63,9 @@ L
 M
 
 
-Output:
+-Output:
 
-Rover is at (1, 3) facing East.
+-Rover is at (1, 3) facing East.
 Rover encountered obstacles at:
 (2, 2)
 

@@ -10,7 +10,7 @@ public class TextEditor {
 
     public void undoWrite(int length) {
         int start = text.length() - length;
-        if (start < 0) start = 0; // Handle cases where undo length is greater than current text length
+        if (start < 0) start = 0; 
         text.delete(start, text.length());
         System.out.println("Text after undo: " + this.text);
     }

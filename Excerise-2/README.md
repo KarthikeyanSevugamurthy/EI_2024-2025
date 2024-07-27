@@ -42,8 +42,33 @@ Follow the prompts to input grid size, obstacles, starting position, direction, 
 
 ### Example
 
+1. **Enter Grid Dimensions:**
+   - `Enter grid width: 10`  
+   - `Enter grid height: 10`
 
-![image](https://github.com/user-attachments/assets/fc878110-5430-49c8-91c1-bb4e54359733)
+2. **Set Obstacles:**
+   - `Enter number of obstacles: 2`
+   - `Enter obstacle 1 x-coordinate: 2`
+   - `Enter obstacle 1 y-coordinate: 2`
+   - `Enter obstacle 2 x-coordinate: 3`
+   - `Enter obstacle 2 y-coordinate: 5`
+
+3. **Set Starting Position and Direction:**
+   - `Enter starting x-coordinate: 0`
+   - `Enter starting y-coordinate: 0`
+   - `Enter starting direction (N/E/S/W): N`
+
+4. **Enter Commands:**
+   - `Enter the number of commands: 6`
+   - `Enter commands (M for move, L for turn left, R for turn right):`
+
+5. **Example Commands:**
+   - `M` (Move forward)
+   - `M` (Move forward)
+   - `R` (Turn right)
+   - `M` (Move forward)
+   - `L` (Turn left)
+   - `M` (Move forward)
 
 
 -Output:

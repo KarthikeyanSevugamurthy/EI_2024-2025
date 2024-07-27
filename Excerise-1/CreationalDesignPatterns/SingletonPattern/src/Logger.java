@@ -4,7 +4,7 @@ public class Logger {
     private static Logger instance;
 
     private Logger() {
-        // Private constructor to prevent instantiation
+        
     }
 
     public static Logger getInstance() {
